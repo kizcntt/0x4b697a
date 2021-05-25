@@ -1,11 +1,6 @@
- __  __     __     ______    
-/\ \/ /    /\ \   /\___  \   
-\ \  _"-.  \ \ \  \/_/  /__  
- \ \_\ \_\  \ \_\   /\_____\ 
-  \/_/\/_/   \/_/   \/_____/
+<h1> 🅺🅸🆉 </h1>
 
-
-- 👋 Hi, I’m ̷0̷x̴4̸B̶6̴9̸7̸A̷  ( Kiz )
+- 👋 Hi, I’m ̷0̷x̴4B̶69̸7A ( Kiz )
 - 👀 I’m interested in InfoSec and Computer Science
 - 🌱 I’m currently learning Software Engineer
 <!-- - 📫 Contact me : fb.com/ikiz.ikiz.14 --->
