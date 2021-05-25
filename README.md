@@ -1,3 +1,10 @@
+ __  __     __     ______    
+/\ \/ /    /\ \   /\___  \   
+\ \  _"-.  \ \ \  \/_/  /__  
+ \ \_\ \_\  \ \_\   /\_____\ 
+  \/_/\/_/   \/_/   \/_____/
+  
+
 - 👋 Hi, I’m ̷0̷x̴4̸B̶6̴9̸7̸A̷  ( Kiz )
 - 👀 I’m interested in InfoSec and Computer Science
 - 🌱 I’m currently learning Software Engineer
